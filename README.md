@@ -1,2 +1,4 @@
 hoge　
 apple
+orange
+one
